@@ -1,0 +1,45 @@
+.container2{
+    width: 100%;
+   display: inline-block;
+   font-size: 20px;
+   letter-spacing: 1px;
+   margin: 0;
+   padding-top: 20px;
+   color: white;
+   font-family:  Georgia, Times, 'Times New Roman', serif;
+   text-align: center;
+   background-image: url(../imagenes/images23.jpg);
+   background-attachment: fixed;
+   background-size: 40%;
+   }
+ 
+   .container3{
+    width: 100%;
+   display: inline-block;
+   font-size: 20px;
+   letter-spacing: 1px;
+   margin: 0;
+   padding-top: 20px;
+   color: white;
+   font-family:  Georgia, Times, 'Times New Roman', serif;
+   text-align: center;
+   background-image: url(../imagenes/images27.jpg);
+   background-attachment: fixed;
+   background-size: 40%;
+   }
+
+   .container4{
+    width: 100%;
+   display: inline-block;
+   font-size: 20px;
+   letter-spacing: 1px;
+   margin: 0;
+   padding-top: 20px;
+   color: white;
+   font-family:  Georgia, Times, 'Times New Roman', serif;
+   text-align: center;
+   background-image: url(../imagenes/images29.jpg);
+   background-attachment: fixed;
+   background-size: 40%;
+   }
+  
